@@ -467,14 +467,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ### Font Attribution
 This project uses the DejaVu Sans font for detection and classification overlays. DejaVu fonts are based on Bitstream Vera Fonts and are licensed under a [permissive free license](https://dejavu-fonts.github.io/License.html).
-
-## Citation
-
-```bibtex
-@software{tracr2024,
-  author = {Nick Bovee, Izhar Ali, Suraj Bitla, Gopi Patapanchala, Shen-Shyang Ho},
-  title = {SplitTracr: An Experimental Test-bed for Cooperative Inference using Split Computing},
-  year = {2024},
-  url = {https://github.com/nbovee/tracr}
-}
-```
